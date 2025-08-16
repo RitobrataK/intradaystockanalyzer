@@ -1,0 +1,12 @@
+# Ignore the configuration file containing API keys
+config.ini
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+.env
